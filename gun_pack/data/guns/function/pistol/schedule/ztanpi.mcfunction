@@ -1,0 +1,3 @@
+summon block_display ~ ~ ~ {Tags:["tanpi","map","weapon_entity"],block_state:{Name:"gold_block"},transformation:[-0.02922f,-0.00000f,-0.00000f,0.03339f,0.00000f,0.02964f,0.00000f,-0.01637f,-0.00000f,-0.00019f,-0.06727f,-0.30058f,0.00000f,0.00000f,0.00000f,1.00000f],billboard:center,interpolation_duration:3}
+ride @e[tag=tanpi,sort=nearest,limit=1] mount @e[tag=display_mount,sort=nearest,limit=1]
+schedule function guns:pistol/schedule/ztanpi2 1t

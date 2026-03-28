@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:entity",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "minecraft:waxed_oxidized_copper_bulb",
+      "functions": [
+        {"function": "minecraft:set_count","count": {"type":"minecraft:uniform","min":5,"max":15}},
+        {"function": "minecraft:set_components","components": {
+          "minecraft:item_model": "minecraft:gold_nugget",
+          "minecraft:item_name": "탄약"
+        }}
+      ]
+    }]
+  }]
+}

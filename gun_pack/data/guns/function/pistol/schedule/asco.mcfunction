@@ -1,0 +1,1 @@
+scoreboard players set #shooting dummy 0

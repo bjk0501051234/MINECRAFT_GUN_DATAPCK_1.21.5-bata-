@@ -1,0 +1,25 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:cave_air",
+    "minecraft:void_air",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:sunflower",
+    "minecraft:lilac",
+    "minecraft:rose_bush",
+    "minecraft:peony",
+    "minecraft:pitcher_plant",
+    "minecraft:bush",
+    "minecraft:wildflowers",
+    "minecraft:short_dry_grass",
+    "minecraft:tall_dry_grass",
+    "minecraft:leaf_litter",
+    "minecraft:firefly_bush",
+    "minecraft:cactus_flower",
+    "#minecraft:flowers",
+    "#minecraft:small_flowers"
+  ]
+}

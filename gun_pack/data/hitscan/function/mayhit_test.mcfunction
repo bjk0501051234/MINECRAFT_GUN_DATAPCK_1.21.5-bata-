@@ -1,0 +1,7 @@
+execute positioned ~ ~-2.0 ~ as @e[limit=1,distance=..0.8,type=!player,type=!item,type=!item_display,type=!block_display,type=!text_display,type=!interaction,type=!area_effect_cloud,type=!armor_stand,type=!marker] run return run tag @s add headshot
+execute positioned ~ ~-1.7 ~ as @e[limit=1,distance=..0.8,type=!player,type=!item,type=!item_display,type=!block_display,type=!text_display,type=!interaction,type=!area_effect_cloud,type=!armor_stand,type=!marker] run return run tag @s add headshot
+execute positioned ~ ~-1.4 ~ as @e[limit=1,distance=..0.8,type=!player,type=!item,type=!item_display,type=!block_display,type=!text_display,type=!interaction,type=!area_effect_cloud,type=!armor_stand,type=!marker] run return run tag @s add bodyshot
+execute positioned ~ ~-1.1 ~ as @e[limit=1,distance=..0.8,type=!player,type=!item,type=!item_display,type=!block_display,type=!text_display,type=!interaction,type=!area_effect_cloud,type=!armor_stand,type=!marker] run return run tag @s add bodyshot
+execute positioned ~ ~-0.8 ~ as @e[limit=1,distance=..0.8,type=!player,type=!item,type=!item_display,type=!block_display,type=!text_display,type=!interaction,type=!area_effect_cloud,type=!armor_stand,type=!marker] run return run tag @s add bodyshot
+execute positioned ~ ~-0.4 ~ as @e[limit=1,distance=..0.8,type=!player,type=!item,type=!item_display,type=!block_display,type=!text_display,type=!interaction,type=!area_effect_cloud,type=!armor_stand,type=!marker] run return run tag @s add bodyshot
+return fail

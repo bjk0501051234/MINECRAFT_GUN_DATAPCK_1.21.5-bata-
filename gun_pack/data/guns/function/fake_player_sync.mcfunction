@@ -1,0 +1,2 @@
+execute as @a[tag=player1] at @s rotated ~ 0 if entity @e[type=minecraft:item_display,tag=aj.player.root,tag=gp_rig_p1,limit=1] run tp @e[type=minecraft:item_display,tag=aj.player.root,tag=gp_rig_p1,limit=1] ~ ~ ~ ~ ~
+execute as @a[tag=player2] at @s rotated ~ 0 if entity @e[type=minecraft:item_display,tag=aj.player.root,tag=gp_rig_p2,limit=1] run tp @e[type=minecraft:item_display,tag=aj.player.root,tag=gp_rig_p2,limit=1] ~ ~ ~ ~ ~

@@ -1,0 +1,1 @@
+kill @e[x=1,limit=1,tag=dot,type=item_display]

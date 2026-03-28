@@ -1,0 +1,1 @@
+execute as @e[tag=aj.player.root] run function animated_java:player/animations/slide/play
